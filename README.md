@@ -87,10 +87,8 @@
 ## 🎒 Образование
 Студент QA Studio
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/0ad4160a489.png)
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/02fa7566a21.png)
 [<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/062a3d61c4c.png) 
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/051e97d0e64.png) 
-<br>
+
 <br>
 
 ## 🤝 Контакт
