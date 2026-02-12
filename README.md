@@ -76,9 +76,9 @@
 
 <br>
 
-## 👀 Практика и стажировка
+<!--## 👀 Практика и стажировка
 
-<!-- [<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
+[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
 [<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_kvadra.png)
 [<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png) -->
 
@@ -87,7 +87,9 @@
 ## 🎒 Образование
 
 [<img src="/0ad4160a489.png" width="280px" hspace="10px" alt="Сертификат джуна»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/0ad4160a489.png)
+[<img src="/02fa7566a21.png" width="280px" hspace="10px" alt="Сертификат джуна»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/02fa7566a21.png)
 [<img src="/062a3d61c4c.png" width="280px" hspace="10px" alt="Сертификат мидла»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/062a3d61c4c.png) 
+[<img src="/051e97d0e64.png" width="280px" hspace="10px" alt="Сертификат мидла»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/051e97d0e64.png) 
 
 <br>
 
