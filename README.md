@@ -78,8 +78,8 @@
 
 ## 👀 Практика и стажировка
 
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/26_adminka.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/26_adminka-en.png)
+[<img src="/26_adminka.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/26_adminka.png)
+[<img src="/26_adminka-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/26_adminka-en.png)
  
 
 <br>
