@@ -85,12 +85,12 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/IMG_20260317_0001.jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/IMG_20260317_0001.jpg)
+
 [<img src="/0ad4160a489.png" width="280px" hspace="10px" alt="Сертификат джуна»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/0ad4160a489.png)
 [<img src="/02fa7566a21.png" width="280px" hspace="10px" alt="Сертификат джуна»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/02fa7566a21.png)
 [<img src="/062a3d61c4c.png" width="280px" hspace="10px" alt="Сертификат мидла»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/062a3d61c4c.png) 
 [<img src="/051e97d0e64.png" width="280px" hspace="10px" alt="Сертификат мидла»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/051e97d0e64.png) 
-
+[<img src="/IMG_20260317_0001.jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/sizov-vm/sizov-vm/refs/heads/main/IMG_20260317_0001.jpg)
 <br>
 
 ## 🤝 Контакт
